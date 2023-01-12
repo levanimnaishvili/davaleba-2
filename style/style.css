@@ -1,0 +1,14 @@
+*{
+
+}
+
+.rect{
+    height: 300px;
+    width: 300px;
+    padding: 30px;
+    background-color: aqua;
+}
+
+#button1 {
+    padding: 1rem;
+}
